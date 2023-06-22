@@ -23,5 +23,8 @@ function questionnaire() {
   let favcolour = prompt('What is your favourite colour ' + name + '?')
   alert(favcolour + ' is my favourite colour aswell!')
 
-  let age = prompt('How old are you ')
+  let age = prompt('How old are you ' + name + '?')
+  age = Number(age)
+  age = (age + 1)
+  alert(age)
 }
