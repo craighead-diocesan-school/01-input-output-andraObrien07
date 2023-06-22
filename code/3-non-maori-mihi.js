@@ -9,6 +9,7 @@ function nonMaoriMihi() {
 
   alert('What is your name?')
   let name = prompt()
+  let water = prompt('whats yor water')
   // more questions and answers here
 
   alert('Your mihi:')
