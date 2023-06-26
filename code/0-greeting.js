@@ -10,4 +10,7 @@ function greeting() {
 
 function joke() {
   // write the code for your joke here.
+
+  let joke = prompt('Why did the chicken cross the road?')
+  alert('BeCAAAAAAAUUUUse')
 }
