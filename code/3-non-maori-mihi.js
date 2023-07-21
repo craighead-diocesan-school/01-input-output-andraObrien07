@@ -16,6 +16,7 @@ function nonMaoriMihi() {
   // more outputs here
 
   alert('Ko ' + name + ' tōku ingoa,')
+  alert('ko' + water + ' toku awa')
   alert('Tēnā koutou,')
   alert('Tēnā koutou,')
   alert('Tēnā koutou, katoa.')
